@@ -1,0 +1,12 @@
+{
+  "name": "teuma86/devcomposer",
+  "description": "A metapackage of dev tools.",
+  "require": {
+      "mage2tv/magento-cache-clean": "^1.0"
+  },
+  "type": "metapackage",
+  "version": "1.0.0",
+  "license": [
+      "MIT"
+  ]
+}
